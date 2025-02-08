@@ -3,25 +3,25 @@ Part of my Futurae teaching intervention. First student project: Unity recreatio
 
 ### Core Scripts & Features
 
-**Player.cs**
+**Player**
 
 - Physics-based bird movement with `Rigidbody`/fake gravity
 - Dynamic rotation via for directional responsiveness
 - Collision detection for failure states
 - Score-trigger logic using collider zones
 
-**ScoreManager.cs**
+**Score Manager**
 
 - Persistent high scores using `PlayerPrefs`
 - Top 10 leaderboard with player name input (UI `InputField`)
 - Real-time score updates via Events
 
-**GameManager.cs**
+**Game Manager**
 
 - State machine handling UI transitions (Home/Game/Game Over screens)
 - Pause functionality with timescale control
 
-**LevelGenerator.cs**
+**Level Generator**
 
 - Procedural pipe generation with adjustable randomization:
   - Height variance
