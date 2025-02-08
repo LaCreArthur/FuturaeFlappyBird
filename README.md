@@ -1,4 +1,5 @@
 ## **Flappy Bird Clone: Unity Project Breakdown**
+Part of my Futurae teaching intervention. First student projetc: Unity recreation of Flappy Bird highlighting core programming concepts and system design.
 
 ### Core Scripts & Features
 
